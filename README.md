@@ -1,7 +1,6 @@
-
-<p align ='center'>
-[[images/background.png]]
-</p>
+<div align="center">
+  <img src="images/background.png"><br><br>
+</div>
 ## New Seoul Tour Application for Foreign Person <br>
 <p align = 'center'>
 <a name = "1"> </a>
