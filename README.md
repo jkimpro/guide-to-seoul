@@ -1,5 +1,7 @@
-# GuideToSeoul
 
+<p align ='center'>
+[[images/background.png]]
+</p>
 ## New Seoul Tour Application for Foreign Person <br>
 <p align = 'center'>
 <a name = "1"> </a>
