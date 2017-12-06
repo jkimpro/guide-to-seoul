@@ -2,7 +2,10 @@
 
 made by Team Sejong University JavaTeam-4
 
-* For more information about using Google API <a href = "https://developers.google.com/maps/documentation/static-maps/intro"> CLICK HERE </a>
+* For more information about using Google API <a href = "https://developers.google.com/maps/documentation/static-maps/intro"> CLICK HERE 
+* For more information about using Open Datas <a href = "http://data.seoul.go.kr/"> CLICK HERE 
+
+</a>
 
 ***
 
