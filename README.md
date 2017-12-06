@@ -1,6 +1,6 @@
 # Guide To Seoul
 
-made by Team Sejong University JavaTeam-4
+made by Team GuideToSeoul
 
 * For more information about using GoogleMap API <a href = "https://developers.google.com/maps/documentation/static-maps/intro"> CLICK HERE </a> 
 * For more information about using OpenData <a href = "http://data.seoul.go.kr/"> CLICK HERE </a>
