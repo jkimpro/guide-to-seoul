@@ -43,8 +43,8 @@ limitations under the License.
 
 # Image Copyrights
 
-* Source code is opened to everybody, but all of the images copyright belongs to project developers!
-* 소스코드는 모두 오픈소스이지만, 본 프로그램에 사용되는 이미지에 대한 저작권은 모두 해당 프로젝트 개발자에게 있습니다!
+* Source code is opened to everybody, but all of the images copyright belongs to GuideToSeoul Project developers!
+* 소스코드는 모두 오픈소스이지만, 본 프로그램에 사용되는 이미지에 대한 저작권은 모두 GuideToSeoul 프로젝트 개발자에게 있습니다!
 
 ***
 
